@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Generated results
+results/*
+!results/.gitkeep
+
+# Test/cache files
+.pytest_cache/
+.coverage
