@@ -524,8 +524,6 @@ geobuilding-spatial-api/
 ├── spatial_api/
 │   ├── main.py
 │   └── requirements.txt
-├── tests/
-│   └── test_spatial_api.py
 └── results/
 ```
 
